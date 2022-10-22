@@ -1,0 +1,2 @@
+{"rule":"FR_SPELLING_RULE","sentence":"^\\QSon étendue de mesure est découpé en 3 zones : Nominale : plage nominale de mesurande (fonctionnement normal) Non-destruction : hors spécification, mais dans l' \"absolute maximum rating\" Destructive : altération permanente des caractéristiques de mesure.\\E$"}
+{"rule":"PAS_DE_TRAIT_UNION","sentence":"^\\QCirculateur : Composant micro-ondes qui permet d'isoler l'émetteur du récepteur.\\E$"}
