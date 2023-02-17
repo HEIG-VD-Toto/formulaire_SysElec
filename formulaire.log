@@ -955,4 +955,365 @@ Class scrartcl Warning: Incompatible package `sectsty' loaded!
 (scrartcl)              user interface, e.g., \chapterlinesformat,
 (scrartcl)              \RedeclareSectionCommand etc. or you should ask
 (scrartcl)              the `sectsty' maintainer for a more compatible release.
-(scrartcl)              Ignoring this war
+(scrartcl)              Ignoring this warning could result in several error
+(scrartcl)              messages and formatting issues after loading package
+(scrartcl)              `sectsty' on input line 56.
+
+
+Class scrartcl Warning: Usage of package `fancyhdr' together
+(scrartcl)              with a KOMA-Script class is not recommended.
+(scrartcl)              I'd suggest to use 
+(scrartcl)              package `scrlayer' or `scrlayer-scrpage', because
+(scrartcl)              they support KOMA-Script classes.
+(scrartcl)              With `fancyhdr' several features of class `scrartcl'
+(scrartcl)              like options `headsepline', `footsepline' or command
+(scrartcl)              `\MakeMarkcase' and the commands `\setkomafont' and
+(scrartcl)              `\addtokomafont' for the page style elements need
+(scrartcl)              explicite user intervention to work.
+(scrartcl)              Nevertheless, using requested
+(scrartcl)              package `fancyhdr' on input line 65.
+
+(c:/texlive/2022/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/05/18 v4.0.3 Extensive control of page headers and footers
+\f@nch@headwidth=\skip83
+\f@nch@O@elh=\skip84
+\f@nch@O@erh=\skip85
+\f@nch@O@olh=\skip86
+\f@nch@O@orh=\skip87
+\f@nch@O@elf=\skip88
+\f@nch@O@erf=\skip89
+\f@nch@O@olf=\skip90
+\f@nch@O@orf=\skip91
+) (c:/texlive/2022/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
+) (c:/texlive/2022/texmf-dist/tex/latex/lettrine/lettrine.sty
+File: lettrine.sty 2022-09-25 v2.30 (Daniel Flipo)
+ (c:/texlive/2022/texmf-dist/tex/generic/minifp/minifp.sty
+Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack-based programing language.
+\MFP@loopctr=\count372
+)
+\c@DefaultLines=\count373
+\c@DefaultDepth=\count374
+\DefaultFindent=\dimen333
+\DefaultNindent=\dimen334
+\DefaultSlope=\dimen335
+\DiscardVskip=\dimen336
+
+Loading lettrine.cfg
+(c:/texlive/2022/texmf-dist/tex/latex/lettrine/lettrine.cfg)
+\L@lbox=\box86
+\L@tbox=\box87
+\c@L@lines=\count375
+\c@L@depth=\count376
+\L@Pindent=\dimen337
+\L@Findent=\dimen338
+\L@Nindent=\dimen339
+\L@lraise=\dimen340
+\L@first=\dimen341
+\L@next=\dimen342
+\L@slope=\dimen343
+\L@height=\dimen344
+\L@novskip=\dimen345
+\L@target@ht=\dimen346
+\L@target@dp=\dimen347
+\L@target@tht=\dimen348
+\LettrineWidth=\dimen349
+\LettrineHeight=\dimen350
+\LettrineDepth=\dimen351
+\Llist@everypar=\toks59
+) (c:/texlive/2022/texmf-dist/tex/latex/titling/titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip92
+\thanksmargin=\skip93
+\droptitle=\skip94
+)
+\c@mycounter=\count377
+ (c:/texlive/2022/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (./formulaire.aux)
+\openout1 = `formulaire.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 109.
+LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line 109.
+ (c:/texlive/2022/texmf-dist/tex/latex/newtx/omlntxmi.fd
+File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
+)
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 109.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 109.
+ (c:/texlive/2022/texmf-dist/tex/latex/newtx/untxexa.fd
+File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
+)
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 109.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 109.
+ (c:/texlive/2022/texmf-dist/tex/latex/newtx/lmsntxsy.fd
+File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
+)
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 109.
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 109.
+ (c:/texlive/2022/texmf-dist/tex/latex/newtx/lmxntxexx.fd
+File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
+)
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Info: Redefining \degres on input line 109.
+LaTeX Info: Redefining \up on input line 109.
+LaTeX Info: Redefining \microtypecontext on input line 109.
+Package microtype Info: Applying patch `item' on input line 109.
+Package microtype Info: Applying patch `toc' on input line 109.
+Package microtype Info: Applying patch `eqnum' on input line 109.
+Package microtype Info: Applying patch `footnote' on input line 109.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 109.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lato-TLF' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Info: Command `\dddot' is already robust on input line 109.
+LaTeX Info: Command `\ddddot' is already robust on input line 109.
+Package newfloat Info: `float' package detected.
+Package newfloat Info: `wrapfig' package detected.
+
+No file pythontex-files-formulaire/formulaire.pytxmcr.
+Run PythonTeX to create it.
+Package newfloat Info: New float `listing' with options `fileext=lopytx' on input line 109.
+\c@listing=\count378
+Package newfloat Info: float type `listing'=4 on input line 109.
+\c@lopytxdepth=\count379
+Package tocbasic Info: setting babel extension for `lopytx' on input line 109.
+(c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count380
+\scratchdimen=\dimen352
+\scratchbox=\box88
+\nofMPsegments=\count381
+\nofMParguments=\count382
+\everyMPshowfont=\toks60
+\MPscratchCnt=\count383
+\MPscratchDim=\dimen353
+\MPnumerator=\count384
+\makeMPintoPDFobject=\count385
+\everyMPtoPDFconversion=\toks61
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@mv@tabular=\count386
+\c@mv@boldtabular=\count387
+
+
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into your preamble.
+ on input line 109.
+
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 109.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 110.
+(c:/texlive/2022/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `phv' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 110.
+ (./chapitre/slide1.tex
+LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
+(Font)              scaled to size 10.95pt on input line 1.
+LaTeX Font Info:    Trying to load font information for OT1+minntx on input line 3.
+ (c:/texlive/2022/texmf-dist/tex/latex/newtx/ot1minntx.fd
+File: ot1minntx.fd 2022/01/20 v1.0 font definition file for OT1/minntx
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `minntx' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+ (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (c:/texlive/2022/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+ (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (c:/texlive/2022/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 3.
+ (c:/texlive/2022/texmf-dist/tex/latex/newtx/untxmia.fd
+File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
+)
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 3.
+ (c:/texlive/2022/texmf-dist/tex/latex/newtx/untxsym.fd
+File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
+)
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 3.
+ (c:/texlive/2022/texmf-dist/tex/latex/newtx/untxsyc.fd
+File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
+)
+<img/Chaine-aquis.drawio.png, id=4, 544.0325pt x 238.8925pt>
+File: img/Chaine-aquis.drawio.png Graphic file (type png)
+<use img/Chaine-aquis.drawio.png>
+Package pdftex.def Info: img/Chaine-aquis.drawio.png  used on input line 41.
+(pdftex.def)             Requested size: 246.5534pt x 108.26611pt.
+)
+Overfull \hbox (10.95pt too wide) in paragraph at lines 41--115
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--115
+
+ []
+
+(./chapitre/slide2.tex
+<img/Table.JPG, id=6, 711.4078pt x 383.93437pt>
+File: img/Table.JPG Graphic file (type jpg)
+<use img/Table.JPG>
+Package pdftex.def Info: img/Table.JPG  used on input line 31.
+(pdftex.def)             Requested size: 201.26276pt x 108.61983pt.
+) (./chapitre/slide3.tex
+<img/Schéma.JPG, id=7, 380.01974pt x 197.538pt>
+File: img/Schéma.JPG Graphic file (type jpg)
+<use img/Schéma.JPG>
+Package pdftex.def Info: img/Schéma.JPG  used on input line 14.
+(pdftex.def)             Requested size: 271.70549pt x 141.2416pt.
+
+Overfull \hbox (25.1232pt too wide) in paragraph at lines 14--15
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 37.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input line 37.
+(c:/texlive/2022/texmf-dist/tex/latex/lato/TS1lato-TLF.fd
+File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
+)
+LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 37.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lato-TLF' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [1{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+
+ <./img/Chaine-aquis.drawio.png> <./img/Table.JPG> <./img/Schéma.JPG>]
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+<img/CIC_Z.JPG, id=25, 828.84656pt x 274.77657pt>
+File: img/CIC_Z.JPG Graphic file (type jpg)
+<use img/CIC_Z.JPG>
+Package pdftex.def Info: img/CIC_Z.JPG  used on input line 60.
+(pdftex.def)             Requested size: 301.90181pt x 100.08507pt.
+
+Overfull \hbox (55.31952pt too wide) in paragraph at lines 60--61
+ [] 
+ []
+
+<img/sinus_card.JPG, id=26, 400.49625pt x 161.10187pt>
+File: img/sinus_card.JPG Graphic file (type jpg)
+<use img/sinus_card.JPG>
+Package pdftex.def Info: img/sinus_card.JPG  used on input line 66.
+(pdftex.def)             Requested size: 251.58229pt x 101.20218pt.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 66--67
+ [] 
+ []
+
+<img/CIC_centre.JPG, id=27, 439.6425pt x 235.63031pt>
+File: img/CIC_centre.JPG Graphic file (type jpg)
+<use img/CIC_centre.JPG>
+Package pdftex.def Info: img/CIC_centre.JPG  used on input line 81.
+(pdftex.def)             Requested size: 150.9509pt x 80.90063pt.
+<img/cic_avecDelta.JPG, id=28, 740.7675pt x 332.74312pt>
+File: img/cic_avecDelta.JPG Graphic file (type jpg)
+<use img/cic_avecDelta.JPG>
+Package pdftex.def Info: img/cic_avecDelta.JPG  used on input line 88.
+(pdftex.def)             Requested size: 740.76569pt x 332.7423pt.
+
+Underfull \vbox (badness 2173) has occurred while \output is active []
+
+<img/Sook.JPG, id=29, 807.7678pt x 392.96812pt>
+File: img/Sook.JPG Graphic file (type jpg)
+<use img/Sook.JPG>
+Package pdftex.def Info: img/Sook.JPG  used on input line 95.
+(pdftex.def)             Requested size: 807.76582pt x 392.96715pt.
+) (./chapitre/slide4.tex [2 <./img/CIC_Z.JPG> <./img/sinus_card.JPG> <./img/CIC_centre.JPG> <./img/cic_avecDelta.JPG> <./img/Sook.JPG>]
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+<Test.drawio.png, id=34, 748.7975pt x 390.45876pt>
+File: Test.drawio.png Graphic file (type png)
+<use Test.drawio.png>
+Package pdftex.def Info: Test.drawio.png  used on input line 58.
+(pdftex.def)             Requested size: 352.21367pt x 183.65862pt.
+
+Overfull \hbox (116.58138pt too wide) in paragraph at lines 58--59
+[][] 
+ []
+
+) (./chapitre/slide5.tex) (./chapitre/slide6.tex) (./chapitre/slide7.tex) (./chapitre/slide8.tex) (./chapitre/slide9.tex) (./chapitre/slide10.tex) 
+AED: lastpage setting LastPage
+[3 <./Test.drawio.png>] (./formulaire.aux) ) 
+Here is how much of TeX's memory you used:
+ 40397 strings out of 475066
+ 926612 string characters out of 5782772
+ 1534104 words of memory out of 5000000
+ 61023 multiletter control sequences out of 15000+600000
+ 584232 words of font info for 93 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 108i,11n,106p,10714b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{c:/texlive/2022/texmf-dist/fonts/enc/dvips/lato/a_rt66h3.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/lato/a_cl4kdn.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2022/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb><c:/texlive/2022/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/newtx/NewTXMI5.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/newtx/NewTXMI7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt0900.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/newtx/txmiaX.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/newtx/txsys.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/newtx/ztmr.pfb>
+Output written on formulaire.pdf (3 pages, 585963 bytes).
+PDF statistics:
+ 92 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 6714 words of extra memory for PDF output out of 10000 (max. 10000000)
+
